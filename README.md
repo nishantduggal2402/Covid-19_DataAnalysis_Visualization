@@ -27,7 +27,7 @@ This supports better understanding of pandemic patterns and enables data-driven 
 
 ## 📂 Dataset  
 
-The dataset consists of two CSV files (~85k rows each):
+The dataset consists of two CSV files (~85k rows each and more than 25 columns each):
 
 - coviddeaths4.csv → Cases, deaths, population, locations  
 - covidvaccinations4.csv → Vaccination data across countries  
