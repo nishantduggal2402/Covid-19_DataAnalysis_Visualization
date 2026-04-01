@@ -56,7 +56,7 @@ To analyze global pandemic data and build interactive dashboards that provide in
 
 
 ## 📂 Dataset  
-Includes two datasets (~85K rows each):  
+Includes two datasets (~85K rows and more than 25 columns each):  
 - COVID deaths data (cases, deaths, population)  
 - COVID vaccination data  
 
